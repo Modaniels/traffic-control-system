@@ -1,4 +1,4 @@
-# Adaptive Traffic Control System Simulation 🚦
+# Adaptive Traffic Control System Simulation 
 
 An intelligent, state-space traffic light intersection simulator built in Python. This project models vehicle queues using linear algebra and applies an adaptive control algorithm to dynamically prioritize lanes based on real-time traffic volume.
 
